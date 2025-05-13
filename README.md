@@ -25,7 +25,7 @@ Each question is answered programmatically, and the results are visualized using
 
 ## Files Included in the Repository
 
-- `beautyReview-graphs.ipynb`: The main Jupyter Notebook containing all code for cleaning, sentiment analysis, and visualization. Markdown cells document each step and question.
+- `amazon_beauty_review.ipynb`: The main Jupyter Notebook containing all code for cleaning, sentiment analysis, and visualization. Markdown cells document each step and question.
 - `All_Beauty_5_cleaned.csv`: The cleaned dataset used for analysis.
 - `project_summary.pdf`: A one-page summary highlighting the project tools, questions, findings, and recommendations.
 - `final_presentation_slides.pdf`: The presentation slides summarizing the project
