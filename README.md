@@ -1,8 +1,10 @@
-# Amazon Beauty Reviews – Sentiment Analysis and Rating Trends
+# Amazon Beauty Reviews – Analysis and Rating Trends
 
 **Author:** Adithi Balajee  
 **Course:** Data Science @ County College of Morris  
-**Date:** Spring 2025 Final Project: Python Data Analysis and Visualizations
+**Date:** Spring 2025 
+
+Final Project: Python Data Analysis and Visualizations
 
 ---
 
@@ -30,3 +32,4 @@ Each question is answered programmatically, and the results are visualized using
 - `project_summary.pdf`: A one-page summary highlighting the project tools, questions, findings, and recommendations.
 - `final_presentation_slides.pdf`: The presentation slides summarizing the project
 - `README.md`: This file, which explains the project background, goals, and contents of the repository.
+- `All_Beauty.json` & `meta_All_Beauty.json` - The original JSON files from the dataset source
